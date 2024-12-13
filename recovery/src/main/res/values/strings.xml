@@ -1,0 +1,16 @@
+<resources>
+    <string name="recovery_menu_debug">Debug</string>
+    <string name="recovery_menu_save">Save</string>
+    <string name="recovery_restart_clear">Restart and clear cache</string>
+    <string name="recovery_restart">Restart application</string>
+    <string name="recovery_recover">Recovery interface</string>
+    <string name="recovery_dialog_tips">hint</string>
+    <string name="recovery_dialog_sure">Sure</string>
+    <string name="recovery_dialog_cancel">Cancel</string>
+    <string name="recovery_dialog_tips_msg">This operation will clear all the app\'s data and restart the app!</string>
+    <string name="recovery_exception_type">ExceptionType: %s</string>
+    <string name="recovery_class_name">ClassName: %s</string>
+    <string name="recovery_method_name">MethodName: %s</string>
+    <string name="recovery_line_number">LineNumber: %d</string>
+    <string name="recovery_crash_tips_msg">An error occurred while using %s\nPlease try to restore or restart the application!</string>
+</resources>
