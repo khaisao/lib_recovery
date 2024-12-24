@@ -18,6 +18,7 @@ class MainActivity : AppCompatActivity() {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
         }
+
         val button = findViewById<Button>(R.id.btn_make_crash)
         button.setOnClickListener {
             val activity: Activity? = null
